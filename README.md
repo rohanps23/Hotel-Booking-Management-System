@@ -1,25 +1,26 @@
-# Hotel-Booking-Management-System
-**Objective	**
+# Hotel Management System
+
+# Description:
 
 
-•	To create a Hotel Management System in C++ using Object Oriented Programming (OOP)
+A C++ project that uses OOP concepts and File Handling to store the records of rooms in a .DAT file and let the operator to perform following operations:
 
+	*  Book a room
+	*  Check a customer record by entering room number
+	*  See all the alloted rooms
+	*  Edit a customer record
+	
 
+# Limitations:
 
+	The project is purely intended to be used in TurboC++ and the interface is also made keeping in mind the resolution of 640x480.
+	The interface of program will change on running it on different screen resolutions.
+	The project is still under development and may have bugs at different stages.
+	
+# Screenshots:
 
+![1](/Screenshots/1.png)
 
-**Approach**	
+![2](/Screenshots/2.png)
 
-
-
-
-•	Built a functional system with centralized database to manage and manipulate user’s data
-•	Implemented a hotel class with appropriate methods to perform operations
-•	Used C++ file handling to store and manipulate data in an external DAT file
-
-
-
-
-
-**Impact	**
-•	Implemented a management system that offers different functions ranging from checking users’ details, booking a room and reviewing allotted rooms etc
+![3](/Screenshots/3.png)
